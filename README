@@ -1,0 +1,12 @@
+Ben Turner
+Nature of Code, Daniel Shiffman
+
+Homework Assignment #1
+----------------------
+I created a random walk using the Socially-Awkward Penguin meme.
+The penguins try to avoid contact or communication with each other.
+
+Issues:
+-Penguins tend to flock and eventually disappear along the sides.
+-Boundaries of penguins' squares are not bounded -- overlap between penguins.
+-Penguins not moving precisely to avoid each other.  Velocities interfering?
